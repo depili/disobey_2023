@@ -3,6 +3,8 @@
 * Kouvosto-vps-300p;
   * Unfortunately there was a typo in the binary submitted, resulting in flag 1 being wrong
     * This was corrected at the end of the CTF when I became aware and points were awarded to anyone who submitted the typoed flag, sorry
+    * The accepted flags were DISOBEY[lcdSytemTryHarder] and DISOBEY[lcdSystemTryHarder]
+    * Two teams actually got the correct flag, somehow, 3 teams found the typoed one.
   * A challenge based on a video mixer console I reverse engineered 5 years ago
   * More a "needle in a heystack" style challenge
   * finding https://github.com/depili/vps-300p/tree/master/rom/rom1_custom provides sources of most of the code
